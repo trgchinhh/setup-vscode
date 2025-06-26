@@ -1,0 +1,29 @@
+{
+    "code-runner.runInTerminal": true,
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
+    "python.defaultInterpreterPath": "C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "debug.onTaskErrorss": "debugAnyway",
+    "explorer.confirmDelete": false,
+    "grunt.autoDetect": "on",
+    "window.customTitleBarVisibility": "windowed",
+    "workbench.layoutControl.enabled": false,
+    "redhat.telemetry.enabled": true,
+    "workbench.editorAssociations": {
+        "*.exe": "default"
+    },
+    "codesnap.pixelRatio": 3, // theme file 
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace", // font chữ consolas  
+    "terminal.integrated.fontSize": 15, // size chữ terminal
+    "editor.parameterHints.enabled": false,
+    "editor.fontSize": 17,
+    "workbench.iconTheme": "material-icon-theme",
+    
+    // "workbench.colorCustomizations": {
+    //     "terminal.background": "#00000000"
+    // },
+    // "terminal.integrated.gpuAcceleration": "off",
+    // "window.systemColorTheme": "dark",
+    // "window.autoDetectColorScheme": false,
+    // "window.titleBarStyle": "custom",
+    // "workbench.colorTheme": "Default Dark+",
+}    
